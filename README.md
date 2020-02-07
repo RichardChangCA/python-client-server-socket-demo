@@ -1,2 +1,6 @@
-# uOttaHack3
-2020-02-08~09 uOttaHack3
+client_demo
+server_demo
+python
+socket
+tcp/ip
+img,txt,video,audio transmission
